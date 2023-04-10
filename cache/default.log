@@ -1,1 +1,3487 @@
-
+Jan 26 15:31:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:32:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:33:07 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:34:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:35:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:36:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:37:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:38:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:39:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:40:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:41:07 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:42:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:43:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:44:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:45:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:46:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:47:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:48:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:49:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:50:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:51:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:52:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:53:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:54:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:55:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:56:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:57:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:58:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 15:59:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:00:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:01:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:02:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:03:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:04:07 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:05:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:06:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:07:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:08:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:09:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:10:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:11:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:12:07 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:13:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:14:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:15:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:16:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:17:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:18:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:19:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:20:07 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:21:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:22:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:23:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:24:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:25:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:26:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:27:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:28:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:29:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:30:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:31:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:32:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:33:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:34:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:35:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:36:07 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:37:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:38:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:39:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 26 16:40:06 [Warning] [default] [default] {
+    "message": "syntax error, unexpected '<'",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php",
+    "line": 455,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php",
+            "line": 149,
+            "function": "loadExternalFile",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/\/lib\/core\/lhchat\/lhchatworkflow.php"
+            ]
+        },
+        {
+            "function": "autoload",
+            "class": "ezcBase",
+            "type": "::",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php",
+            "line": 12,
+            "function": "spl_autoload_call",
+            "args": [
+                "erLhcoreClassChatWorkflow"
+            ]
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 167,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php"
+            ],
+            "function": "include_once"
+        }
+    ],
+    "raw": "ParseError: syntax error, unexpected '<' in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhchat\/lhchatworkflow.php:455\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/base.php(149): ezcBase::loadExternalFile('\/var\/www\/html\/l...')\n#1 [internal function]: ezcBase::autoload('erLhcoreClassCh...')\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/modules\/lhcron\/workflow.php(12): spl_autoload_call('erLhcoreClassCh...')\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(167): include_once('\/var\/www\/html\/l...')\n#4 {main}"
+}
+Jan 27 11:33:06 [Warning] [default] [default] Unexpected error, the message was : chmod(): No such file or directory in /var/www/html/livehelperchat-master/lhc_web/ezcomponents/Cache/src/storage/file.php on line 213
+Apr 10 21:16:08 [Warning] [default] [default] {
+    "message": "Setting with section {site} value {installed}",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+    "line": 23,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhdb.php",
+            "line": 60,
+            "function": "getSetting",
+            "class": "erConfigClassLhConfig",
+            "type": "->"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php",
+            "line": 120,
+            "function": "configureObject",
+            "class": "erLhcoreClassLazyDatabaseConfiguration",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Database\/src\/instance.php",
+            "line": 96,
+            "function": "fetchConfig",
+            "class": "ezcBaseInit",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php",
+            "line": 92,
+            "function": "get",
+            "class": "ezcDbInstance",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php",
+            "line": 120,
+            "function": "configureObject",
+            "class": "erLhcoreClassLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/EventLog\/src\/log.php",
+            "line": 243,
+            "function": "fetchConfig",
+            "class": "ezcBaseInit",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php",
+            "line": 64,
+            "function": "getInstance",
+            "class": "ezcLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 88,
+            "function": "write",
+            "class": "erLhcoreClassLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 10,
+            "function": "defaultCronjobFatalHandler"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 10,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php"
+            ],
+            "function": "include"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 100,
+            "function": "__construct",
+            "class": "erConfigClassLhConfig",
+            "type": "->"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 147,
+            "function": "getInstance",
+            "class": "erConfigClassLhConfig",
+            "type": "::"
+        }
+    ],
+    "raw": "Exception: Setting with section {site} value {installed} in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php:23\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhdb.php(60): erConfigClassLhConfig->getSetting()\n#1 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php(120): erLhcoreClassLazyDatabaseConfiguration::configureObject()\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Database\/src\/instance.php(96): ezcBaseInit::fetchConfig()\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php(92): ezcDbInstance::get()\n#4 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php(120): erLhcoreClassLog::configureObject()\n#5 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/EventLog\/src\/log.php(243): ezcBaseInit::fetchConfig()\n#6 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php(64): ezcLog::getInstance()\n#7 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(88): erLhcoreClassLog::write()\n#8 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(10): defaultCronjobFatalHandler()\n#9 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(10): include('...')\n#10 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(100): erConfigClassLhConfig->__construct()\n#11 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(147): erConfigClassLhConfig::getInstance()\n#12 {main}"
+}
+Apr 10 21:17:07 [Warning] [default] [default] {
+    "message": "Setting with section {site} value {installed}",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+    "line": 23,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhdb.php",
+            "line": 60,
+            "function": "getSetting",
+            "class": "erConfigClassLhConfig",
+            "type": "->"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php",
+            "line": 120,
+            "function": "configureObject",
+            "class": "erLhcoreClassLazyDatabaseConfiguration",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Database\/src\/instance.php",
+            "line": 96,
+            "function": "fetchConfig",
+            "class": "ezcBaseInit",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php",
+            "line": 92,
+            "function": "get",
+            "class": "ezcDbInstance",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php",
+            "line": 120,
+            "function": "configureObject",
+            "class": "erLhcoreClassLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/EventLog\/src\/log.php",
+            "line": 243,
+            "function": "fetchConfig",
+            "class": "ezcBaseInit",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php",
+            "line": 64,
+            "function": "getInstance",
+            "class": "ezcLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 88,
+            "function": "write",
+            "class": "erLhcoreClassLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 10,
+            "function": "defaultCronjobFatalHandler"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 10,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php"
+            ],
+            "function": "include"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 100,
+            "function": "__construct",
+            "class": "erConfigClassLhConfig",
+            "type": "->"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 147,
+            "function": "getInstance",
+            "class": "erConfigClassLhConfig",
+            "type": "::"
+        }
+    ],
+    "raw": "Exception: Setting with section {site} value {installed} in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php:23\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhdb.php(60): erConfigClassLhConfig->getSetting()\n#1 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php(120): erLhcoreClassLazyDatabaseConfiguration::configureObject()\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Database\/src\/instance.php(96): ezcBaseInit::fetchConfig()\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php(92): ezcDbInstance::get()\n#4 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php(120): erLhcoreClassLog::configureObject()\n#5 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/EventLog\/src\/log.php(243): ezcBaseInit::fetchConfig()\n#6 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php(64): ezcLog::getInstance()\n#7 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(88): erLhcoreClassLog::write()\n#8 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(10): defaultCronjobFatalHandler()\n#9 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(10): include('...')\n#10 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(100): erConfigClassLhConfig->__construct()\n#11 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(147): erConfigClassLhConfig::getInstance()\n#12 {main}"
+}
+Apr 10 21:18:07 [Warning] [default] [default] {
+    "message": "Setting with section {site} value {installed}",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+    "line": 23,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhdb.php",
+            "line": 60,
+            "function": "getSetting",
+            "class": "erConfigClassLhConfig",
+            "type": "->"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php",
+            "line": 120,
+            "function": "configureObject",
+            "class": "erLhcoreClassLazyDatabaseConfiguration",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Database\/src\/instance.php",
+            "line": 96,
+            "function": "fetchConfig",
+            "class": "ezcBaseInit",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php",
+            "line": 92,
+            "function": "get",
+            "class": "ezcDbInstance",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php",
+            "line": 120,
+            "function": "configureObject",
+            "class": "erLhcoreClassLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/EventLog\/src\/log.php",
+            "line": 243,
+            "function": "fetchConfig",
+            "class": "ezcBaseInit",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php",
+            "line": 64,
+            "function": "getInstance",
+            "class": "ezcLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 88,
+            "function": "write",
+            "class": "erLhcoreClassLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 10,
+            "function": "defaultCronjobFatalHandler"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 10,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php"
+            ],
+            "function": "include"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 100,
+            "function": "__construct",
+            "class": "erConfigClassLhConfig",
+            "type": "->"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 147,
+            "function": "getInstance",
+            "class": "erConfigClassLhConfig",
+            "type": "::"
+        }
+    ],
+    "raw": "Exception: Setting with section {site} value {installed} in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php:23\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhdb.php(60): erConfigClassLhConfig->getSetting()\n#1 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php(120): erLhcoreClassLazyDatabaseConfiguration::configureObject()\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Database\/src\/instance.php(96): ezcBaseInit::fetchConfig()\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php(92): ezcDbInstance::get()\n#4 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php(120): erLhcoreClassLog::configureObject()\n#5 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/EventLog\/src\/log.php(243): ezcBaseInit::fetchConfig()\n#6 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php(64): ezcLog::getInstance()\n#7 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(88): erLhcoreClassLog::write()\n#8 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(10): defaultCronjobFatalHandler()\n#9 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(10): include('...')\n#10 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(100): erConfigClassLhConfig->__construct()\n#11 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(147): erConfigClassLhConfig::getInstance()\n#12 {main}"
+}
+Apr 10 21:19:06 [Warning] [default] [default] {
+    "message": "Setting with section {site} value {installed}",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+    "line": 23,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhdb.php",
+            "line": 60,
+            "function": "getSetting",
+            "class": "erConfigClassLhConfig",
+            "type": "->"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php",
+            "line": 120,
+            "function": "configureObject",
+            "class": "erLhcoreClassLazyDatabaseConfiguration",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Database\/src\/instance.php",
+            "line": 96,
+            "function": "fetchConfig",
+            "class": "ezcBaseInit",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php",
+            "line": 92,
+            "function": "get",
+            "class": "ezcDbInstance",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php",
+            "line": 120,
+            "function": "configureObject",
+            "class": "erLhcoreClassLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/EventLog\/src\/log.php",
+            "line": 243,
+            "function": "fetchConfig",
+            "class": "ezcBaseInit",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php",
+            "line": 64,
+            "function": "getInstance",
+            "class": "ezcLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 88,
+            "function": "write",
+            "class": "erLhcoreClassLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 10,
+            "function": "defaultCronjobFatalHandler"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 10,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php"
+            ],
+            "function": "include"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 100,
+            "function": "__construct",
+            "class": "erConfigClassLhConfig",
+            "type": "->"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 147,
+            "function": "getInstance",
+            "class": "erConfigClassLhConfig",
+            "type": "::"
+        }
+    ],
+    "raw": "Exception: Setting with section {site} value {installed} in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php:23\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhdb.php(60): erConfigClassLhConfig->getSetting()\n#1 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php(120): erLhcoreClassLazyDatabaseConfiguration::configureObject()\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Database\/src\/instance.php(96): ezcBaseInit::fetchConfig()\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php(92): ezcDbInstance::get()\n#4 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php(120): erLhcoreClassLog::configureObject()\n#5 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/EventLog\/src\/log.php(243): ezcBaseInit::fetchConfig()\n#6 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php(64): ezcLog::getInstance()\n#7 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(88): erLhcoreClassLog::write()\n#8 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(10): defaultCronjobFatalHandler()\n#9 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(10): include('...')\n#10 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(100): erConfigClassLhConfig->__construct()\n#11 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(147): erConfigClassLhConfig::getInstance()\n#12 {main}"
+}
+Apr 10 21:20:08 [Warning] [default] [default] {
+    "message": "Setting with section {site} value {installed}",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+    "line": 23,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhdb.php",
+            "line": 60,
+            "function": "getSetting",
+            "class": "erConfigClassLhConfig",
+            "type": "->"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php",
+            "line": 120,
+            "function": "configureObject",
+            "class": "erLhcoreClassLazyDatabaseConfiguration",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Database\/src\/instance.php",
+            "line": 96,
+            "function": "fetchConfig",
+            "class": "ezcBaseInit",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php",
+            "line": 92,
+            "function": "get",
+            "class": "ezcDbInstance",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php",
+            "line": 120,
+            "function": "configureObject",
+            "class": "erLhcoreClassLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/EventLog\/src\/log.php",
+            "line": 243,
+            "function": "fetchConfig",
+            "class": "ezcBaseInit",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php",
+            "line": 64,
+            "function": "getInstance",
+            "class": "ezcLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 88,
+            "function": "write",
+            "class": "erLhcoreClassLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 10,
+            "function": "defaultCronjobFatalHandler"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 10,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php"
+            ],
+            "function": "include"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 100,
+            "function": "__construct",
+            "class": "erConfigClassLhConfig",
+            "type": "->"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 147,
+            "function": "getInstance",
+            "class": "erConfigClassLhConfig",
+            "type": "::"
+        }
+    ],
+    "raw": "Exception: Setting with section {site} value {installed} in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php:23\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhdb.php(60): erConfigClassLhConfig->getSetting()\n#1 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php(120): erLhcoreClassLazyDatabaseConfiguration::configureObject()\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Database\/src\/instance.php(96): ezcBaseInit::fetchConfig()\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php(92): ezcDbInstance::get()\n#4 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php(120): erLhcoreClassLog::configureObject()\n#5 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/EventLog\/src\/log.php(243): ezcBaseInit::fetchConfig()\n#6 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php(64): ezcLog::getInstance()\n#7 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(88): erLhcoreClassLog::write()\n#8 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(10): defaultCronjobFatalHandler()\n#9 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(10): include('...')\n#10 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(100): erConfigClassLhConfig->__construct()\n#11 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(147): erConfigClassLhConfig::getInstance()\n#12 {main}"
+}
+Apr 10 21:21:07 [Warning] [default] [default] {
+    "message": "Setting with section {site} value {installed}",
+    "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+    "line": 23,
+    "trace": [
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhdb.php",
+            "line": 60,
+            "function": "getSetting",
+            "class": "erConfigClassLhConfig",
+            "type": "->"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php",
+            "line": 120,
+            "function": "configureObject",
+            "class": "erLhcoreClassLazyDatabaseConfiguration",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Database\/src\/instance.php",
+            "line": 96,
+            "function": "fetchConfig",
+            "class": "ezcBaseInit",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php",
+            "line": 92,
+            "function": "get",
+            "class": "ezcDbInstance",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php",
+            "line": 120,
+            "function": "configureObject",
+            "class": "erLhcoreClassLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/EventLog\/src\/log.php",
+            "line": 243,
+            "function": "fetchConfig",
+            "class": "ezcBaseInit",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php",
+            "line": 64,
+            "function": "getInstance",
+            "class": "ezcLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 88,
+            "function": "write",
+            "class": "erLhcoreClassLog",
+            "type": "::"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 10,
+            "function": "defaultCronjobFatalHandler"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 10,
+            "args": [
+                "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php"
+            ],
+            "function": "include"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php",
+            "line": 100,
+            "function": "__construct",
+            "class": "erConfigClassLhConfig",
+            "type": "->"
+        },
+        {
+            "file": "\/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php",
+            "line": 147,
+            "function": "getInstance",
+            "class": "erConfigClassLhConfig",
+            "type": "::"
+        }
+    ],
+    "raw": "Exception: Setting with section {site} value {installed} in \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php:23\nStack trace:\n#0 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhdb.php(60): erConfigClassLhConfig->getSetting()\n#1 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php(120): erLhcoreClassLazyDatabaseConfiguration::configureObject()\n#2 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Database\/src\/instance.php(96): ezcBaseInit::fetchConfig()\n#3 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php(92): ezcDbInstance::get()\n#4 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/Base\/src\/init.php(120): erLhcoreClassLog::configureObject()\n#5 \/var\/www\/html\/livehelperchat-master\/lhc_web\/ezcomponents\/EventLog\/src\/log.php(243): ezcBaseInit::fetchConfig()\n#6 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhcore\/lhlog.php(64): ezcLog::getInstance()\n#7 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(88): erLhcoreClassLog::write()\n#8 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(10): defaultCronjobFatalHandler()\n#9 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(10): include('...')\n#10 \/var\/www\/html\/livehelperchat-master\/lhc_web\/lib\/core\/lhconfig\/lhconfig.php(100): erConfigClassLhConfig->__construct()\n#11 \/var\/www\/html\/livehelperchat-master\/lhc_web\/cron.php(147): erConfigClassLhConfig::getInstance()\n#12 {main}"
+}
