@@ -54,7 +54,7 @@
   "dependencies": {
     "babel-loader": "^8.2.3",
     "socket.io": "^2.4.1",
-    "vmsg": "^0.3.6",
+    "vmsg": "^0.4.0",
     "webpack": "^5.65.0"
   }
 }
