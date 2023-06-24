@@ -52,7 +52,7 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "babel-loader": "^8.2.3",
+    "babel-loader": "^9.0.0",
     "socket.io": "^2.4.1",
     "vmsg": "^0.3.6",
     "webpack": "^5.65.0"
